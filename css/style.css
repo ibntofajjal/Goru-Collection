@@ -1,0 +1,11 @@
+/* ▓▒▒▒▒▒▒▒▒▒▒▒ গুগল ফন্ট ▒▒▒▒▒▒▒▒▒▒▒▓ */
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;600;700&display=swap');
+
+
+body {
+     border-color: #1a1a1a;
+     font-family: 'Hind Siliguri', sans-serif;
+ }
+html {
+    scroll-behavior: smooth;
+}

@@ -3,9 +3,76 @@
 
 
 body {
-     border-color: #1a1a1a;
+     background-color: #1a1a1a;
      font-family: 'Hind Siliguri', sans-serif;
  }
 html {
     scroll-behavior: smooth;
+}
+.my-name {
+    color: aquamarine;
+}
+#goru-collection h1{
+    font-size: 60px;
+}
+#goru-collection p{
+    font-size: 20px;
+}
+.goru-title {
+    font-weight: 600;
+}
+.nav-link:hover {
+    color: aquamarine !important;
+}
+.view-btn {
+    color: black;
+    padding-top: 15px;
+    font-size: 20px;
+    font-weight: 600;
+    transition: all .3 ease;
+}
+.view-btn:hover {
+    color: coral;
+    font-size: 18px;
+}
+.contact-section {
+    background-color: rgb(117, 117, 116);
+    border-radius: 10px;
+    margin-bottom: 3rem;
+}
+
+#order h1{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    margin-bottom: 3rem;
+    cursor: pointer;
+}
+#order h1:hover {
+    color: aquamarine !important;
+}
+
+.question-section {
+    font-size: 20px;
+    border-radius: 10px !important;
+}
+.question-section a {
+    text-decoration: none;
+}
+.qs-btn {
+    font-size: 20px;
+}
+.icons{
+    font-size: 3rem ;
+    margin-right: 8px;
+    color: gray;
+}
+.icons:hover {
+    color: rgb(8, 168, 115);
+}
+.social-link {
+    text-align: center;
+}
+.accordion-body h1 {
+    font-size: 20px;
 }
